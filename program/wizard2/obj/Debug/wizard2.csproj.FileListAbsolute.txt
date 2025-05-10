@@ -1,0 +1,47 @@
+C:\Users\don21001962\source\repos\wizard2\wizard2\bin\Debug\wizard2.exe.config
+C:\Users\don21001962\source\repos\wizard2\wizard2\bin\Debug\wizard2.exe
+C:\Users\don21001962\source\repos\wizard2\wizard2\bin\Debug\wizard2.pdb
+C:\Users\don21001962\source\repos\wizard2\wizard2\obj\Debug\wizard2.csproj.AssemblyReference.cache
+C:\Users\don21001962\source\repos\wizard2\wizard2\obj\Debug\wizard2.csproj.SuggestedBindingRedirects.cache
+C:\Users\don21001962\source\repos\wizard2\wizard2\obj\Debug\wizard2.Form1.resources
+C:\Users\don21001962\source\repos\wizard2\wizard2\obj\Debug\wizard2.Properties.Resources.resources
+C:\Users\don21001962\source\repos\wizard2\wizard2\obj\Debug\wizard2.csproj.GenerateResource.cache
+C:\Users\don21001962\source\repos\wizard2\wizard2\obj\Debug\wizard2.csproj.CoreCompileInputs.cache
+C:\Users\don21001962\source\repos\wizard2\wizard2\obj\Debug\wizard2.exe
+C:\Users\don21001962\source\repos\wizard2\wizard2\obj\Debug\wizard2.pdb
+C:\Users\don21001962\source\repos\wizard2\wizard2\obj\Debug\wizard2.play.resources
+E:\Browser\programscoala11\wizard2\bin\Debug\wizard2.exe.config
+E:\Browser\programscoala11\wizard2\bin\Debug\wizard2.exe
+E:\Browser\programscoala11\wizard2\bin\Debug\wizard2.pdb
+E:\Browser\programscoala11\wizard2\obj\Debug\wizard2.csproj.AssemblyReference.cache
+E:\Browser\programscoala11\wizard2\obj\Debug\wizard2.csproj.SuggestedBindingRedirects.cache
+E:\Browser\programscoala11\wizard2\obj\Debug\wizard2.Form1.resources
+E:\Browser\programscoala11\wizard2\obj\Debug\wizard2.play.resources
+E:\Browser\programscoala11\wizard2\obj\Debug\wizard2.Properties.Resources.resources
+E:\Browser\programscoala11\wizard2\obj\Debug\wizard2.csproj.GenerateResource.cache
+E:\Browser\programscoala11\wizard2\obj\Debug\wizard2.csproj.CoreCompileInputs.cache
+E:\Browser\programscoala11\wizard2\obj\Debug\wizard2.exe
+E:\Browser\programscoala11\wizard2\obj\Debug\wizard2.pdb
+E:\Scoala\wizardprogram\Programscoala11\wizard2\bin\Debug\wizard2.exe.config
+E:\Scoala\wizardprogram\Programscoala11\wizard2\bin\Debug\wizard2.exe
+E:\Scoala\wizardprogram\Programscoala11\wizard2\bin\Debug\wizard2.pdb
+E:\Scoala\wizardprogram\Programscoala11\wizard2\obj\Debug\wizard2.csproj.AssemblyReference.cache
+E:\Scoala\wizardprogram\Programscoala11\wizard2\obj\Debug\wizard2.csproj.SuggestedBindingRedirects.cache
+E:\Scoala\wizardprogram\Programscoala11\wizard2\obj\Debug\wizard2.Form1.resources
+E:\Scoala\wizardprogram\Programscoala11\wizard2\obj\Debug\wizard2.play.resources
+E:\Scoala\wizardprogram\Programscoala11\wizard2\obj\Debug\wizard2.Properties.Resources.resources
+E:\Scoala\wizardprogram\Programscoala11\wizard2\obj\Debug\wizard2.csproj.GenerateResource.cache
+E:\Scoala\wizardprogram\Programscoala11\wizard2\obj\Debug\wizard2.csproj.CoreCompileInputs.cache
+E:\Scoala\wizardprogram\Programscoala11\wizard2\obj\Debug\wizard2.exe
+E:\Scoala\wizardprogram\Programscoala11\wizard2\obj\Debug\wizard2.pdb
+E:\College\College\Level 3 IT Year 2\Programming\wizardprogramzipped\wizardprogram\program\wizard2\bin\Debug\wizard2.exe.config
+E:\College\College\Level 3 IT Year 2\Programming\wizardprogramzipped\wizardprogram\program\wizard2\bin\Debug\wizard2.exe
+E:\College\College\Level 3 IT Year 2\Programming\wizardprogramzipped\wizardprogram\program\wizard2\bin\Debug\wizard2.pdb
+E:\College\College\Level 3 IT Year 2\Programming\wizardprogramzipped\wizardprogram\program\wizard2\obj\Debug\wizard2.csproj.AssemblyReference.cache
+E:\College\College\Level 3 IT Year 2\Programming\wizardprogramzipped\wizardprogram\program\wizard2\obj\Debug\wizard2.Form1.resources
+E:\College\College\Level 3 IT Year 2\Programming\wizardprogramzipped\wizardprogram\program\wizard2\obj\Debug\wizard2.play.resources
+E:\College\College\Level 3 IT Year 2\Programming\wizardprogramzipped\wizardprogram\program\wizard2\obj\Debug\wizard2.Properties.Resources.resources
+E:\College\College\Level 3 IT Year 2\Programming\wizardprogramzipped\wizardprogram\program\wizard2\obj\Debug\wizard2.csproj.GenerateResource.cache
+E:\College\College\Level 3 IT Year 2\Programming\wizardprogramzipped\wizardprogram\program\wizard2\obj\Debug\wizard2.csproj.CoreCompileInputs.cache
+E:\College\College\Level 3 IT Year 2\Programming\wizardprogramzipped\wizardprogram\program\wizard2\obj\Debug\wizard2.exe
+E:\College\College\Level 3 IT Year 2\Programming\wizardprogramzipped\wizardprogram\program\wizard2\obj\Debug\wizard2.pdb
